@@ -11,3 +11,5 @@ Changed something in this file
 Changed again something in something in this file
 
 This is a new commit for feature-1300
+
+This is a new commit for feature-1300
